@@ -12,7 +12,7 @@ h1 {
 
 }
 header {
-	color: rbg(152, 173, 166) solid;
+	color: solid rbg(152, 173, 166);
 }
 
 #featured img {
