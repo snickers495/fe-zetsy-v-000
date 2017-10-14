@@ -53,4 +53,8 @@ a:-webkit-any-link {
     color: -webkit-link;
     cursor: auto; }
 
+footer p {
+	text-align: left;
+	font-size: 0.8em;
+}
 /* Write all remaining styles here */
