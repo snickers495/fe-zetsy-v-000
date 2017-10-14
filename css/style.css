@@ -16,16 +16,16 @@ header {
 }
 
 #featured img {
-	border: 5px rbg(152, 173, 166) solid;
+	border: 5px solid rbg(152, 173, 166);
 }
 
 h2 {
-	color: rbg(111, 127, 122);
+	color: solid rbg(111, 127, 122);
 	font-size: 2em
 }
 
 #press img {
-	border: 5px rbg(204, 204, 204) solid;
+	border: 5px solid rbg(204, 204, 204);
 	padding: 1px
 }
 /*////////// Global Styles //////////*/
