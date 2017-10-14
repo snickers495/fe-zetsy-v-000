@@ -45,9 +45,7 @@ body {
 
 .wrapper {
 	width: 960px;
-	margin-top: 0;
-	margin-left: auto;
-	margin-right: auto;
+	margin-top: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
 }
