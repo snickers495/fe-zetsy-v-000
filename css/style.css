@@ -12,7 +12,7 @@ h1 {
 
 }
 header {
-	color: solid rbg(152, 173, 166);
+	color: rbg(152, 173, 166);
 }
 
 #featured img {
@@ -20,7 +20,7 @@ header {
 }
 
 h2 {
-	color: solid rbg(111, 127, 122);
+	color: rbg(111, 127, 122);
 	font-size: 2em
 }
 
