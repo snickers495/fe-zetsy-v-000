@@ -12,11 +12,11 @@ h1 {
 
 }
 header {
-	color: rbg(152, 173, 166);
+	color: rbg(152, 173, 166) solid;
 }
 
 #featured img {
-	border: 5px rbg(152, 173, 166);
+	border: 5px rbg(152, 173, 166) solid;
 }
 
 h2 {
@@ -24,7 +24,7 @@ h2 {
 }
 
 #press img {
-	border: 5px rbg(204, 204, 204);
+	border: 5px rbg(204, 204, 204) solid;
 }
 /*////////// Global Styles //////////*/
 
