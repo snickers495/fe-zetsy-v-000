@@ -43,4 +43,8 @@ body {
 	padding: 0 45px 20px;
 }
 
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: auto; }
+
 /* Write all remaining styles here */
