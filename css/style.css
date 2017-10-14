@@ -21,12 +21,12 @@ header {
 
 h2 {
 	color: rbg(111, 127, 122);
-	font-size: 2em
+	font-size: 2em;
 }
 
 #press img {
 	border: 5px solid rbg(204, 204, 204);
-	padding: 1px
+	padding: 1px;
 }
 /*////////// Global Styles //////////*/
 
